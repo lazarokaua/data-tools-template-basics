@@ -1,7 +1,7 @@
 [project]
 name = "{{cookiecutter.project_name}}"
 version = "0.1.0"
-description = "Projeto de análise de dados"
+description = "Basic data analysis project template"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -10,4 +10,4 @@ dependencies = [
 ]
 
 [tool.uv]
-# uv usa isso pra gerenciar ambiente
+# Managed by uv for environment configuration
